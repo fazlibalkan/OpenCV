@@ -1,0 +1,3 @@
+﻿  Chapter1.cpp
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\Chapter1.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenCV.vcxproj -> C:\Users\FAZLI\source\repos\OpenCV\x64\Debug\OpenCV.exe
