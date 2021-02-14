@@ -1,3 +1,13 @@
-﻿  Chapter4.cpp
-C:\Users\FAZLI\source\repos\OpenCV\OpenCV\Chapter4.cpp(13,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  Chapter5.cpp
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\Chapter5.cpp(16,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\Chapter5.cpp(25,51): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\Chapter5.cpp(25,48): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
   OpenCV.vcxproj -> C:\Users\FAZLI\source\repos\OpenCV\x64\Debug\OpenCV.exe
