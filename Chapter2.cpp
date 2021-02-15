@@ -17,7 +17,7 @@ void main() {
 	Mat imgGray, imgBlur, imgCanny, imgDil, imgErode;
 
 	cvtColor(img, imgGray, COLOR_BGR2GRAY);
-	GaussianBlur(img, imgBlur, Size(3,3), 3, 0);
+	GaussianBlur(imgGray, imgBlur, Size(3,3), 3, 0);
 	Canny(imgBlur, imgCanny, 50, 150);
 	
 	Mat kernel = getStructuringElement(MORPH_RECT, Size(3, 3));
