@@ -2,7 +2,6 @@
 #include <opencv2/highgui.hpp>
 #include <opencv2/imgproc.hpp>
 #include <iostream>
-#include "Chapter7.h"
 
 using namespace std;
 using namespace cv;
