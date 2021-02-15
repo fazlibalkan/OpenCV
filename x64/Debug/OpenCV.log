@@ -1,3 +1,5 @@
-﻿  Chapter6.cpp
-C:\Users\FAZLI\source\repos\OpenCV\OpenCV\Chapter6.cpp(18,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  Chapter7.cpp
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\Chapter7.cpp(31,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\Chapter7.cpp(36,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\Chapter7.cpp(68,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
   OpenCV.vcxproj -> C:\Users\FAZLI\source\repos\OpenCV\x64\Debug\OpenCV.exe
