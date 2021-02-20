@@ -1,3 +1,4 @@
-﻿  Chapter8.cpp
-C:\Users\FAZLI\source\repos\OpenCV\OpenCV\Chapter8.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  VirtualPainter.cpp
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\VirtualPainter.cpp(34,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\VirtualPainter.cpp(39,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   OpenCV.vcxproj -> C:\Users\FAZLI\source\repos\OpenCV\x64\Debug\OpenCV.exe
