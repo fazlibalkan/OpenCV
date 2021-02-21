@@ -1,4 +1,25 @@
-﻿  VirtualPainter.cpp
-C:\Users\FAZLI\source\repos\OpenCV\OpenCV\VirtualPainter.cpp(34,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\FAZLI\source\repos\OpenCV\OpenCV\VirtualPainter.cpp(39,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+﻿  DocumentScanner.cpp
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\DocumentScanner.cpp(42,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\DocumentScanner.cpp(46,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\DocumentScanner.cpp(92,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\DocumentScanner.cpp(92,46): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\DocumentScanner.cpp(97,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\DocumentScanner.cpp(115,63): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\FAZLI\source\repos\OpenCV\OpenCV\DocumentScanner.cpp(115,39): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
   OpenCV.vcxproj -> C:\Users\FAZLI\source\repos\OpenCV\x64\Debug\OpenCV.exe
