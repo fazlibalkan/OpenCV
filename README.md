@@ -1,3 +1,3 @@
 # OpenCV
 
-A repository for a course that I followed. It includes 1 project: Virtual Painter
+A repository for a course that I followed. It includes 2 projects: Virtual Painter, Document Scanner
